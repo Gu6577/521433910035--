@@ -1,0 +1,14 @@
+【键盘】
+s：导出图像
+h：关闭/打开设置
+c：清空画布
+r：打开/关闭自动撒点模式
+【设置】
+Ball Width：圆的长度
+Split Variance：溅射强度
+Width Variance：子圆宽度方差
+Split Ratio：子圆平均缩减系数（size'=size*1/SplitRatio）
+Split：是否溅射
+Export：导出图像
+Clear：清空画布
+RandomSpill：打开/关闭自动撒点模式
